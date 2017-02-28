@@ -2,8 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-h1 code {font-size: 0.6em}
-.main-content {font-size: 1.3rem}
+.main-content h1 code {font-size: 0.6em}
+.main-content {font-size: 1.2rem}
 .page-header {
 	padding: 1.5rem 3rem;
 }
