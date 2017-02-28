@@ -1,37 +1,131 @@
-## Welcome to GitHub Pages
+---
+title: 一七班 2017年二月作业
+---
 
-You can use the [editor on GitHub](https://github.com/tgq/homework/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 2-28 `星期二`
+### 语文
+1. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 数学
+1. 书第23,25页.
+2. 复习书第20,21页.请家长检查完成后签名
 
-### Markdown
+---
+# 2-27 `星期一`
+### 语文
+1. 读书21—23页，预习第23页第一题。
+2. 默写《字母表》。 
+3. 看课外书，做家务，填表。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 数学
+1. 书第19,22页.
+2. 1号第16页.请家长检查完成后签名。
 
-```markdown
-Syntax highlighted code block
+### 棋类赛报名
 
-# Header 1
-## Header 2
-### Header 3
+3月10日下午2：00-6：00东校区进行第五届“有为杯”三棋赛暨荔湾区中小学三棋锦标赛选拔赛。
 
-- Bulleted
-- List
+- `比赛棋类：`象棋、围棋、国际象棋。
+- `参赛选手：`各班别按每个棋类分别派出2男1女，每位选手只能报一项。各班可申请外卡选手一名，条件为参加学校棋类提高班训练的女生，由比赛组委会鉴定批准。
 
-1. Numbered
-2. List
+【29日前，请优秀的棋手们在Q群中踊跃报名。本次比赛具体内容看Q群。】
 
-**Bold** and _Italic_ and `Code` text
+---
+# 2-24 `星期五`
+### 语文
+1. 说书第20页最后一题。
+2. 预习书21—23页。
+3. 熟读《生字卡》中的课1-3和默写《字母表》。
+4. 小①抄写并家听课文2。
+5. 讲故事，做家务，填表。
 
-[Link](url) and ![Image](src)
-```
+### 数学
+1. 书第18页。
+2. 1号第14,15页。
 
-For more detils see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
+# 2-23 `星期四`
+### 语文
+1. 预习书19—20页。
+2. 熟读《生字卡》中的课文一和背《字母表》。
+3. 小①抄写并家听课文1。
+4. 孩子讲故事，家长帮助记录孩子讲的故事情节，做家务，填表。
 
-### Jekyll Themes
+### 数学
+1. 1号第12.13页.
+2. 复习书第16页.请家长检查完成后签名
+ 
+---
+# 2-22 `星期三`
+### 语文
+1. 预习书17—18页。
+2. 熟读《组词表》第2页。
+3. 小①家听识字1-4【不用抄写，只需每个生字听写一个词语即可】。
+4. 孩子讲书第10页中的故事，家长帮助记录孩子讲的故事情节，做家务，填表。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tgq/homework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 数学
+1. 1号第10,11页.
+2. 复习.请家长检查完成后签名
 
-### Support or Contact
+---
+# 2-21 `星期二`
+### 语文
+1. 预习书10—16页。
+2. 熟读《生字卡》和背《字母表》。
+3. 小①抄写并家听识字4。
+4. 孩子讲故事，家长帮助记录孩子讲的故事情节，做家务，填表。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 数学
+1. 书第13.14页.
+2. 复习.请家长检查完成后签名。
+
+---
+# 2-20 `星期一`
+### 语文
+1. 预习书8—9页。
+2. 熟读《生字卡》和《组词表》。
+3. 小①抄写并家听识字3。
+4. 孩子讲故事，家长帮助记录孩子讲的故事情节，
+5. 做家务，填表。
+
+### 数学
+1. 口算第2、3页，
+2. 黄冈第9页
+
+---
+一年级**国际象棋**校队基础班明天开始集中训练。下午课后训练时间
+- **周二`4:00--5:15`**
+- **周四`4:00--5:15`**
+- **周五`3:00--4:15`**
+
+---
+# 2-17 `星期五`
+### 语文
+1. 预习书第8—9页。
+2. 熟读《生字卡》识字3-4。
+3. 在指定练习纸中，按顺序和格式默写字母表
+
+### 数学
+1. 1号第7,8页.
+2. 做书第11页.请家长检查完成后签名。
+
+### 重温复习要求
+1. 给自然段标上序号，有感情地、流利地朗读课文内容；
+2. 课文后的生字要会读、会认、会组词，每个生字组两个词以上；
+3. 田字格中会写的生字还要说说每一个笔画分别在田字格的哪个位置。
+4. 写出每个生字声母对应的大写字母。
+
+---
+
+# 2-16 `星期四`
+### 语文
+- 预习书第6—7页。
+- 熟读《生字卡》识字3。
+- 小①抄写并家听识字2【要求听写后立刻批改】。
+- 背姓氏歌，玩书第5页中的问答游戏，课外阅读关于自己姓氏由来的故事或传说。
+
+### 数学
+1. 2号第1页.
+2. 摆学具.
+3. 预习书第8.9.10页.
+4. 请家长检查完成后签名
