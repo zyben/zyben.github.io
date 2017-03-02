@@ -1,15 +1,43 @@
-<!--
----
-title: My page
----
--->
 <!DOCTYPE html>
 <html>
 <head>
-	<title>{{page.title}}</title>
+<title>Translate</title>
+<meta charset='utf-8'>
+
+<style type="text/css">
+#t1,#t2{
+	display:block;
+	width: 90%;
+	margin: auto;
+	font-size: 1.2rem;
+	padding: 0.5rem;
+}
+#t1 {height: 10em}
+#t2 {height: 20em}
+#b1 {width: 70%}
+#b2 {width: 20%}
+button {font-size: 1.3em}
+</style>
+
+<script type="text/javascript">
+function trans() {
+	reg= /(\d{1})[、\.]+\s*/g;
+	re2= /【([^】]+)】/g;
+	a=document.getElementById('t1').value;
+	b=a.replace(reg,function(rs,$1){return '\n'+$1+'. '});
+	document.getElementById('t2').value=b;
+}
+</script>
+
 </head>
 <body>
+<center>TEXT TO MD</center>
 <textarea id='t1'></textarea>
+<p><center>
+<button id='b1' onclick="javascript:trans();">转</button>
+<button id='b2' onclick="javascript:addd();">加日期</button>
+</center></p>
+
 <textarea id='t2'></textarea>
 </body>
 </html>
