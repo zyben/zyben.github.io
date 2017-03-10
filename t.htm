@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Translate</title>
+<meta charset='utf-8'>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css">
+#t1,#t2{
+	display:block;
+	width: 95%;
+	margin: auto;
+	font-size: 1.2rem;
+	padding: 0.5rem;
+}
+#t1 {height: 10em}
+#t2 {height: 10em}
+#b1 {width: 70%}
+#b2 {width: 20%}
+button {font-size: 1.3em}
+</style>
+
+<script type="text/javascript">
+function trans() {
+	reg= /(\d{1})[、\.]+\s*/g;
+	re2= /【([^】]{2})】/g;
+	ree= /\/\S+\s*/g;
+	a=document.getElementById('t1').value;
+	ano='';
+	while(gr=re2.exec(a)){
+		a=a.substr(gr.index);
+		a=a.replace(gr[0],'\n### '+gr[1]);
+		gre=a.search(ree);
+		e=a.length;
+		if(gre){
+			e=gre;
+		}
+		ano+=a.substr(0,e)+'\n';
+	}
+	b=ano.replace(reg,function(rs,$1){return '\n'+$1+'. '});
+	b=b.replace('请家长检查完成后签名， 请家长检查完成后签名。','请家长检查完成后签名。')
+	document.getElementById('t2').value=b+'\n---\n';
+}
+
+function addd() {
+	week=['日','一','二','三','四','五','六'];
+	a=document.getElementById('t2').value;
+	d= new Date();
+	ds='# '+(d.getMonth()+1)+'-' +d.getDate() +' `星期' +week[d.getDay()] +'`\n';
+	document.getElementById('t2').value=ds+a;
+}
+</script>
+
+</head>
+<body>
+<center>TEXT TO MD</center>
+<textarea id='t1'></textarea>
+<p><center>
+<button id='b1' onclick="javascript:trans();">转</button>
+<button id='b2' onclick="javascript:addd();">加</button>
+</center></p>
+
+<textarea id='t2'></textarea>
+</body>
+</html>
